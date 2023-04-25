@@ -1,0 +1,24 @@
+[20/Apr/2023:02:37:54] (I): WordPress Instance Info:
+[20/Apr/2023:02:37:54] (I): Home URL : http://localhost/wordpress
+[20/Apr/2023:02:37:54] (I): Site URL : http://localhost/wordpress
+[20/Apr/2023:02:37:54] (I): WordPress Version : 6.2
+[20/Apr/2023:02:37:54] (I): Onboarding Version : 1.1.37
+[20/Apr/2023:02:37:54] (I): Multisite : No
+[20/Apr/2023:02:37:54] (I): Server Info : Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev
+[20/Apr/2023:02:37:54] (I): PHP Version : 8.0.26
+[20/Apr/2023:02:37:54] (I): HTTPS : No
+[20/Apr/2023:02:37:54] (I): PHP Max Execution Time : 120
+[20/Apr/2023:02:37:54] (I): PHP Max Input Vars : 2500
+[20/Apr/2023:02:37:54] (I): Max Upload Size : 2097152
+[20/Apr/2023:02:37:54] (I): Plugins:
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Akismet Anti-Spam : v5.1 (Automattic)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Klasik düzenleyici : v1.6.3 (WordPress katılımcıları)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] LiteSpeed Cache : v5.4 (LiteSpeed Technologies)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] No Category Base (WPML) : v1.3 (Marios Alexandrou)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Image optimization service by Optimole : v3.6.1 (Optimole)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.4 (ThemeIsle)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Lazy Load - Optimize Images : v2.3.6 (WP Rocket)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Templates Patterns Collection : v1.1.37 (ThemeIsle)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] Yoast SEO : v20.5 (Yoast ekibi)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] WP Mail SMTP : v3.7.0 (WPForms)
+[20/Apr/2023:02:37:54] (I): [PLUGIN] WPForms Lite : v1.8.1.2 (WPForms)
